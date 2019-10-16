@@ -97,7 +97,7 @@ public class PermissionHelper {
         } catch (IllegalAccessException e) {
             e.printStackTrace();
         }
-        throw new RuntimeException(String.format("can not find %s , something when compiler.", activity.getClass().getSimpleName() + SUFFIX));
+        throw new RuntimeException(String.format(" generate class not found %s , please check the file is exit.", activity.getClass().getSimpleName() + SUFFIX));
     }
 
 
@@ -135,7 +135,7 @@ public class PermissionHelper {
         }
 
         if (!denied.isEmpty()) {
-            doExecuteFail(obj, requestCode, grant.toArray(new String[denied.size()]));
+            doExecuteFail(obj, requestCode, denied.toArray(new String[denied.size()]));
         }
     }
 }
