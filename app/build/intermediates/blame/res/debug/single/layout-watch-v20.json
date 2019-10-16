@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

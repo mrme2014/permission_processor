@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:4:5-96
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:6:5-91
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:7:5-85
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:8:5-87
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:10:5-83
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:11:5-97
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:12:5-95
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:14:5-30:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/timian/.android/build-cache/68af88de185a6d907119ba60b783002440d4bdd3/output/AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:19:9-35
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.qiaomu.permissionprocessor.MainActivity
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:23:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [permission_processor:libpermission:unspecified] /Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/timian/.android/build-cache/1f020335f7bfd507d38b34622ee4fa01a25b949c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/timian/.android/build-cache/24af6ecda7bd65a7979189036c3f22bb65ccd654/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/timian/.android/build-cache/f1e801fd48add104af4a77577a94c79fdf89abe5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/timian/.android/build-cache/62e137476786bca9357844c6165c85373838b9cc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/timian/.android/build-cache/8df9faf3cd0ca0bcbff6d9dd451d1cd60dfc17a6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/timian/.android/build-cache/451bca3de7ef530859da492dd3ef160688917f52/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/timian/.android/build-cache/ee7149044726be1fcf0d4d0079850f83e7e73c58/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/timian/.android/build-cache/e85e3635cfecbef7bba001ad873b8c253778b9d7/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/timian/.android/build-cache/f782abfac5df9ebca2eb81d5afa3f1731e04842e/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/timian/.android/build-cache/901df81ac407dfd49c6b9563c40cec4fe1784b81/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/timian/.android/build-cache/d666695fde226732075644ed7913f4d5378d7b51/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/timian/.android/build-cache/3bbc7d4593a146911a981ec6bd343bc92e127f35/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/timian/.android/build-cache/85031aa650d93692d46c305153a8a00a8e273d4c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/timian/.android/build-cache/8a8dd9579a2dfce8442a11f9b4ab8e7b0c0e4df7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/timian/.android/build-cache/cb0327091bc723a8e59e5670186092e2fe8ac675/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/timian/.android/build-cache/fb5ac3223bd81e3b5ec4e493d5854e9adc198170/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/timian/.android/build-cache/85277aaf97be153121a1918af00ec08b103c1e7c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/timian/.android/build-cache/5826d35bcde98b3e4759d218b0400f95904bcda3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/timian/.android/build-cache/d9bf796634a4cf10a4dfe3729e614adc76290f22/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/timian/.android/build-cache/90422818a6263f6013340b772f9daad6fb1aff0e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/timian/.android/build-cache/bf1814ae69e454fdac56730ba35c8b5c568d5c0e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/timian/.android/build-cache/7db72225309079976683615c51513f48149e0d2e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/timian/.android/build-cache/68af88de185a6d907119ba60b783002440d4bdd3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/timian/.android/build-cache/14ca4b21ae4865d94d77344996f9ec64c84846e2/output/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml

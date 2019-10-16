@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/timian/.android/build-cache/bb93e2e40fb9a3c8ea2712de83619e4ed2b6954f/output/res/anim/abc_tooltip_exit.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

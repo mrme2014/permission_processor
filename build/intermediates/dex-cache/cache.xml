@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d2b627b5eba09c7d9d8014ccb2e891a9ea04ded">
+        <dex dex="/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/pre-dexed/debug/classes_1fcd6314ac1c7b7eea282a43cce7b58703d0be79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/timian/Documents/AndroidStudioProjects/permission_processor/libannotation/build/libs/libannotation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="131afdd489e0960b946b1b2a6edf8874e504c000">
+        <dex dex="/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/pre-dexed/debug/libannotation_14514991a2a1cb7c73946662c486e7ef449b5996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/timian/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.0.0/2229f5de3e511d034cb4a20c67fd96bec214ef17/javapoet-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2229f5de3e511d034cb4a20c67fd96bec214ef17">
+        <dex dex="/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/pre-dexed/debug/javapoet-1.0.0_252cce7c6fead4593038671700ec0d21b554707f.jar" />
+    </item>
+
+</items>

@@ -4,7 +4,6 @@ import com.google.auto.service.AutoService;
 import com.qiaomu.annotation.PermissionDenied;
 import com.qiaomu.annotation.PermissionGrant;
 import com.qiaomu.annotation.PermissionRationale;
-import com.sun.source.util.Trees;
 
 import java.io.IOException;
 import java.io.Writer;
@@ -42,7 +41,7 @@ public class PermissionProcessor extends AbstractProcessor {
     private Elements mElementUtils;
     private Messager mMessager;
     private Map<String, ProxyInfo> mProxyMap = new HashMap<String, ProxyInfo>();
-    private Trees trees;
+
 
 
     @Override
@@ -50,7 +49,6 @@ public class PermissionProcessor extends AbstractProcessor {
         super.init(processingEnv);
         mElementUtils = processingEnv.getElementUtils();
         mMessager = processingEnv.getMessager();
-        trees = Trees.instance(processingEnv);
     }
 
     @Override

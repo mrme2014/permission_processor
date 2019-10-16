@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/res/layout-v21/notification_action.xml"
+    }
+]

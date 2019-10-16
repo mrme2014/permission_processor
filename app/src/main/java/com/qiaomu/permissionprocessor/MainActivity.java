@@ -56,12 +56,40 @@ public class MainActivity extends AppCompatActivity {
 
     @PermissionGrant(PERMISSION_REQUEST_CODE_PHONE)
     public void requestPhoneOnGrant(String[] permissions) {
-        Toast.makeText(this, "phone grant", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "phone permission grant", Toast.LENGTH_SHORT).show();
     }
 
     @PermissionDenied(PERMISSION_REQUEST_CODE_PHONE)
+    public void requestPhoneOnDenied(String[] permissions) {
+        Toast.makeText(this, " phone  permission denied", Toast.LENGTH_SHORT).show();
+    }
+
+    @PermissionGrant(PERMISSION_REQUEST_CODE_SD)
+    public void requestSdOnGrant(String[] permissions) {
+        Toast.makeText(this, " sdcard permission grant", Toast.LENGTH_SHORT).show();
+    }
+
+    @PermissionDenied(PERMISSION_REQUEST_CODE_SD)
     public void requestSdOnDenied(String[] permissions) {
-        Toast.makeText(this, "sdcard denied", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "sdcard permission denied", Toast.LENGTH_SHORT).show();
+    }
+
+    @PermissionDenied(PERMISSION_REQUEST_CODE_MULTIPLE)
+    public void requestMultiOnDenied(String[] permissions) {
+        StringBuilder builder = new StringBuilder();
+        for (String permission : permissions) {
+            builder.append(permission + "\n");
+        }
+        Toast.makeText(this, builder.toString() + "\n以上权限被禁止了", Toast.LENGTH_SHORT).show();
+    }
+
+    @PermissionGrant(PERMISSION_REQUEST_CODE_MULTIPLE)
+    public void requestMultiOnGrant(String[] permissions) {
+        StringBuilder builder = new StringBuilder();
+        for (String permission : permissions) {
+            builder.append(permission + "\n");
+        }
+        Toast.makeText(this, builder.toString() + "\n以上权限被授权了", Toast.LENGTH_SHORT).show();
     }
 
     @PermissionRationale(PERMISSION_REQUEST_CODE_SD)
