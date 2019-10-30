@@ -48,8 +48,10 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.multi).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                PermissionHelper.requestPermissions(MainActivity.this, PERMISSION_REQUEST_CODE_MULTIPLE, Manifest.permission.READ_SMS,
-                        Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.SEND_SMS);
+                PermissionHelper.requestPermissions(MainActivity.this, PERMISSION_REQUEST_CODE_MULTIPLE,
+                        Manifest.permission.CALL_PHONE,
+                        Manifest.permission.READ_EXTERNAL_STORAGE,
+                        Manifest.permission.SEND_SMS);
             }
         });
     }

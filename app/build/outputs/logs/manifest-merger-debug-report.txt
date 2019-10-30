@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:1:1-31:12
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:1:1-32:12
 	package
 		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:2:5-45
 		INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml
@@ -45,44 +45,48 @@ uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:11:5-97
 	android:name
 		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:11:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:12:5-95
+uses-permission#android.permission.CAMERA
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:12:22-76
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:13:5-95
+	android:name
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:13:22-76
 application
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:14:5-30:19
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:15:5-31:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/timian/.android/build-cache/68af88de185a6d907119ba60b783002440d4bdd3/output/AndroidManifest.xml:22:5-23:19
 	android:label
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:18:9-41
 	android:supportsRtl
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:20:9-35
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/timian/.android/build-cache/2f11709b7e00a174c963a9f4b589152fb9265b30/output/AndroidManifest.xml:22:18-91
 	android:roundIcon
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:18:9-54
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:19:9-54
 	android:allowBackup
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:16:9-43
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:17:9-43
 	android:theme
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:20:9-40
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:21:9-40
 activity#com.qiaomu.permissionprocessor.MainActivity
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:22:9-29:20
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:23:9-30:20
 	android:label
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:24:13-45
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:23:13-71
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:24:13-71
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:25:13-28:29
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:26:13-29:29
 action#android.intent.action.MAIN
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:26:17-69
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:27:17-77
+ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:27:27-74
+		ADDED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml:28:27-74
 uses-sdk
 INJECTED from /Users/timian/Documents/AndroidStudioProjects/permission_processor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [permission_processor:libpermission:unspecified] /Users/timian/Documents/AndroidStudioProjects/permission_processor/libpermission/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41

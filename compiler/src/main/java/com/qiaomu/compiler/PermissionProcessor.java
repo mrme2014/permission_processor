@@ -43,7 +43,6 @@ public class PermissionProcessor extends AbstractProcessor {
     private Map<String, ProxyInfo> mProxyMap = new HashMap<String, ProxyInfo>();
 
 
-
     @Override
     public synchronized void init(ProcessingEnvironment processingEnv) {
         super.init(processingEnv);
@@ -90,7 +89,7 @@ public class PermissionProcessor extends AbstractProcessor {
                         proxyInfo.getTypeElement(), e.getMessage());
             }
         }
-
+        mMessager.printMessage(Diagnostic.Kind.NOTE, "PermissionProcessor process end");
         return false;
     }
 

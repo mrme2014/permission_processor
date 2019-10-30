@@ -1,4 +1,4 @@
-#Wed Oct 16 11:47:06 CST 2019
+#Wed Oct 16 16:44:00 CST 2019
 base.0=/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/timian/Documents/AndroidStudioProjects/permission_processor/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
